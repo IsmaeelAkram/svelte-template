@@ -1,5 +1,5 @@
 <script>
-	let count = 100;
+	let count = 0;
 	function increment() {
 		count++;
 	}
